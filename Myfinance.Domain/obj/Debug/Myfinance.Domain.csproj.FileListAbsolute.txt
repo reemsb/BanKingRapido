@@ -1,0 +1,5 @@
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Domain\bin\Debug\Myfinance.Domain.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Domain\bin\Debug\Myfinance.Domain.pdb
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Domain\obj\Debug\Myfinance.Domain.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Domain\obj\Debug\Myfinance.Domain.pdb
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Domain\obj\Debug\Myfinance.Domain.csprojResolveAssemblyReference.cache

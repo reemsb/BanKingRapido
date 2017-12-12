@@ -1,0 +1,11 @@
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\Myfinance.Service.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\Myfinance.Service.pdb
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\Myfinance.Data.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\Myfinance.Domain.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\EntityFramework.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\Myfinance.Data.pdb
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\Myfinance.Domain.pdb
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\bin\Debug\EntityFramework.xml
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\obj\Debug\Myfinance.Service.csprojResolveAssemblyReference.cache
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\obj\Debug\Myfinance.Service.dll
+C:\Users\Rym\Documents\Visual Studio 2015\Projects\MyfinanceWeb\Myfinance.Service\obj\Debug\Myfinance.Service.pdb
